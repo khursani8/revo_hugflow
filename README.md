@@ -1,3 +1,5 @@
+> **Unique:** GitOps automation for Hugging Face datasets: a two-field YAML request opens a PR, a self-hosted runner downloads the dataset, extracts audio to MP3 with JSON metadata, validates, auto-merges, and reports to Slack.
+
 # Hugflow
 
 **Hugflow** is a GitOps-based declarative automation system for managing Hugging Face datasets. It automates dataset downloads via pull requests with progress tracking, validation, and auto-merge on success.
